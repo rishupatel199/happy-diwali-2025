@@ -1,5 +1,17 @@
-# HAPPY DIWALI 2025 🪔
+# 🪔 HAPPY DIWALI 2025
 
-A pixel-art GitHub contribution calendar visual experiment.
+A GitHub Diwali celebration project!
 
-IMPORTANT: This project demonstrates historical Git timestamps. Commits do not represent work performed on their displayed dates.
+## Features
+- Diwali ASCII pixel artwork
+- Traditional diya illustration
+- Festive greeting
+- Git and GitHub practice
+
+## Visual Experiment
+This repository demonstrates Git and contribution-calendar
+visualization. Any historical-date experiments are labelled
+and do not represent work performed on those dates.
+
+## Happy Diwali! ✨
+May your life shine with happiness and success.
